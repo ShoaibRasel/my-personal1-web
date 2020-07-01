@@ -1,0 +1,113 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+
+.top-Banner {
+  background-image: url(../images/bg-background/header-bg.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 50px;
+}
+
+section {
+  height: 800px;
+  /* padding-bottom: 150px; */
+}
+
+.half-Width {
+  width: 40%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+
+.half-Width img {
+  width: 60%;
+}
+
+.half-Width h1 {
+  line-height: 10px;
+  font-size: 50px;
+  color: rgb(219, 118, 135);
+}
+
+.half-Width h3 {
+  font-size: 25px;
+}
+
+.half-Width p {
+  margin-bottom: 30px;
+}
+
+.half-Width a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+  background-color: rgb(219, 118, 135);
+  padding: 10px 30px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.half-Width a:hover {
+  background-color: royalblue;
+}
+
+/* topBanner part end  */
+
+.dream-big {
+  background-image: url(../images/bg-background/biography-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+}
+
+.dream-big #conent {
+  margin-top: 70px;
+}
+.half-Width a{
+    border-radius: 20px;
+}
+
+
+/* dream big part end  */
+.latest-work {
+  text-align: center;
+}
+.latest-work .work img {
+  width: 25%;
+  margin: 0 30px;
+}
+
+.client-say {
+  text-align: center;
+  background-image: url(../images/bg-background/footer-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.client-say h1 {
+  font-weight: 400;
+  margin-top: 150px;
+  margin-bottom: 60px;
+}
+.client-say .name-designation {
+  line-height: 5px;
+  margin-bottom: 50px;
+}
+
+.message a {
+  text-decoration: none;
+  background-color: pink;
+  padding: 30px 60px;
+  border-radius: 5px;
+  color: #000;
+  font-size: 20px;
+}
+footer p {
+   
+    text-align: center;
+    font-size: 15px;
+}
