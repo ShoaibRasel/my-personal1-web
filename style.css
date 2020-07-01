@@ -13,7 +13,7 @@ body {
 
 section {
   height: 800px;
-  /* padding-bottom: 150px; */
+  
 }
 
 .half-Width {
@@ -55,7 +55,7 @@ section {
   background-color: royalblue;
 }
 
-/* topBanner part end  */
+
 
 .dream-big {
   background-image: url(../images/bg-background/biography-bg.png);
@@ -72,7 +72,7 @@ section {
 }
 
 
-/* dream big part end  */
+
 .latest-work {
   text-align: center;
 }
